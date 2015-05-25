@@ -1,0 +1,34 @@
+---
+convergence: |+
+  data: {"points":[{"x":2,"y":28},{"x":3,"y":8},{"x":4,"y":0},{"x":5,"y":33},{"x":6,"y":15},{"x":7,"y":8},{"x":8,"y":23},{"x":9,"y":36},{"x":10,"y":35},{"x":11,"y":28}],"id":"convergence","updatedAt":1432581807}
+
+buzzwords: |+
+  data: {"items":[{"label":"Pivoting","value":1}],"id":"buzzwords","updatedAt":1432581807}
+
+valuation: |+
+  data: {"current":21,"last":0,"id":"valuation","updatedAt":1432581807}
+
+karma: |+
+  data: {"current":174983,"last":0,"id":"karma","updatedAt":1432581807}
+
+synergy: |+
+  data: {"value":52,"id":"synergy","updatedAt":1432581807}
+
+welcome: |+
+  data: {"text":"А русский?","id":"welcome","updatedAt":1430646012}
+
+temp: |+
+  data: {"text":"5","id":"temp","updatedAt":1430778329}
+
+cur_usd: |+
+  data: {"text":"51.9595","id":"cur_usd","updatedAt":1430695894}
+
+cur_eur: |+
+  data: {"text":"58.0556","id":"cur_eur","updatedAt":1430695894}
+
+usd_cur: |+
+  data: {"text":"52.0845","id":"usd_cur","updatedAt":1430778329}
+
+eur_cur: |+
+  data: {"text":"58.0589","id":"eur_cur","updatedAt":1430778329}
+

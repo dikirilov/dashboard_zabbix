@@ -1,24 +1,24 @@
 ---
 convergence: |+
-  data: {"points":[{"x":2,"y":28},{"x":3,"y":8},{"x":4,"y":0},{"x":5,"y":33},{"x":6,"y":15},{"x":7,"y":8},{"x":8,"y":23},{"x":9,"y":36},{"x":10,"y":35},{"x":11,"y":28}],"id":"convergence","updatedAt":1432581807}
+  data: {"points":[{"x":201,"y":39},{"x":202,"y":47},{"x":203,"y":40},{"x":204,"y":28},{"x":205,"y":47},{"x":206,"y":27},{"x":207,"y":16},{"x":208,"y":13},{"x":209,"y":35},{"x":210,"y":23}],"id":"convergence","updatedAt":1432678558}
 
 buzzwords: |+
-  data: {"items":[{"label":"Pivoting","value":1}],"id":"buzzwords","updatedAt":1432581807}
+  data: {"items":[{"label":"Synergy","value":0},{"label":"Turn-key","value":28},{"label":"Pivoting","value":25},{"label":"Web 2.0","value":17},{"label":"Exit strategy","value":3},{"label":"Leverage","value":19},{"label":"Streamlininess","value":17},{"label":"Enterprise","value":17},{"label":"Paradigm shift","value":14}],"id":"buzzwords","updatedAt":1432678558}
 
 valuation: |+
-  data: {"current":21,"last":0,"id":"valuation","updatedAt":1432581807}
+  data: {"current":34,"last":0,"id":"valuation","updatedAt":1432678558}
 
 karma: |+
-  data: {"current":174983,"last":0,"id":"karma","updatedAt":1432581807}
+  data: {"current":28672,"last":14358,"id":"karma","updatedAt":1432678558}
 
 synergy: |+
-  data: {"value":52,"id":"synergy","updatedAt":1432581807}
+  data: {"value":15,"id":"synergy","updatedAt":1432678558}
 
 welcome: |+
   data: {"text":"А русский?","id":"welcome","updatedAt":1430646012}
 
 temp: |+
-  data: {"text":"5","id":"temp","updatedAt":1430778329}
+  data: {"text":"17","id":"temp","updatedAt":1432672691}
 
 cur_usd: |+
   data: {"text":"51.9595","id":"cur_usd","updatedAt":1430695894}
@@ -27,8 +27,20 @@ cur_eur: |+
   data: {"text":"58.0556","id":"cur_eur","updatedAt":1430695894}
 
 usd_cur: |+
-  data: {"text":"52.0845","id":"usd_cur","updatedAt":1430778329}
+  data: {"text":"50.9305","id":"usd_cur","updatedAt":1432672691}
 
 eur_cur: |+
-  data: {"text":"58.0589","id":"eur_cur","updatedAt":1430778329}
+  data: {"text":"55.4111","id":"eur_cur","updatedAt":1432672691}
+
+outwarn: |+
+  data: {"current":"39","status":"warn","id":"outwarn","updatedAt":1432678558}
+
+outavrg: |+
+  data: {"current":"44","status":"average","id":"outavrg","updatedAt":1432678558}
+
+outhigh: |+
+  data: {"current":75,"status":"high","id":"outhigh","updatedAt":1432678558}
+
+outdis: |+
+  data: {"current":0,"status":"ok","id":"outdis","updatedAt":1432678558}
 

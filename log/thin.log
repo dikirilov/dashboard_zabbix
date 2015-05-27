@@ -1,0 +1,16 @@
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3031, CTRL+C to stop
+192.168.11.61 - - [27/May/2015 18:35:31] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0053
+192.168.11.61 - - [27/May/2015 18:35:31] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0014
+192.168.11.61 - - [27/May/2015 18:35:31] "GET /views/graph.html HTTP/1.1" 200 167 0.0009
+192.168.11.61 - - [27/May/2015 18:36:56] "GET /events HTTP/1.1" 200 - 85.1076
+192.168.11.61 - - [27/May/2015 18:36:56] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0052
+192.168.11.61 - - [27/May/2015 18:36:59] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0011
+192.168.11.61 - - [27/May/2015 18:36:59] "GET /views/graph.html HTTP/1.1" 200 167 0.0010
+192.168.11.61 - - [27/May/2015 18:37:32] "GET /events HTTP/1.1" 200 - 33.1992
+192.168.11.61 - - [27/May/2015 18:37:32] "GET / HTTP/1.1" 302 - 0.0015
+192.168.11.61 - - [27/May/2015 18:37:32] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0048
+192.168.11.61 - - [27/May/2015 18:37:33] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0012
+192.168.11.61 - - [27/May/2015 18:37:33] "GET /views/graph.html HTTP/1.1" 200 167 0.0013

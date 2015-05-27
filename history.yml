@@ -1,18 +1,18 @@
 ---
 convergence: |+
-  data: {"points":[{"x":201,"y":39},{"x":202,"y":47},{"x":203,"y":40},{"x":204,"y":28},{"x":205,"y":47},{"x":206,"y":27},{"x":207,"y":16},{"x":208,"y":13},{"x":209,"y":35},{"x":210,"y":23}],"id":"convergence","updatedAt":1432678558}
+  data: {"points":[{"x":1029,"y":9},{"x":1030,"y":34},{"x":1031,"y":35},{"x":1032,"y":16},{"x":1033,"y":8},{"x":1034,"y":19},{"x":1035,"y":31},{"x":1036,"y":45},{"x":1037,"y":35},{"x":1038,"y":17}],"id":"convergence","updatedAt":1432740884}
 
 buzzwords: |+
-  data: {"items":[{"label":"Synergy","value":0},{"label":"Turn-key","value":28},{"label":"Pivoting","value":25},{"label":"Web 2.0","value":17},{"label":"Exit strategy","value":3},{"label":"Leverage","value":19},{"label":"Streamlininess","value":17},{"label":"Enterprise","value":17},{"label":"Paradigm shift","value":14}],"id":"buzzwords","updatedAt":1432678558}
+  data: {"items":[{"label":"Pivoting","value":18},{"label":"Streamlininess","value":16},{"label":"Leverage","value":21},{"label":"Turn-key","value":2},{"label":"Paradigm shift","value":12},{"label":"Synergy","value":24},{"label":"Enterprise","value":0},{"label":"Exit strategy","value":11},{"label":"Web 2.0","value":24}],"id":"buzzwords","updatedAt":1432740884}
 
 valuation: |+
-  data: {"current":34,"last":0,"id":"valuation","updatedAt":1432678558}
+  data: {"current":0,"last":76,"id":"valuation","updatedAt":1432740884}
 
 karma: |+
-  data: {"current":28672,"last":14358,"id":"karma","updatedAt":1432678558}
+  data: {"current":38810,"last":36888,"id":"karma","updatedAt":1432740884}
 
 synergy: |+
-  data: {"value":15,"id":"synergy","updatedAt":1432678558}
+  data: {"value":86,"id":"synergy","updatedAt":1432740884}
 
 welcome: |+
   data: {"text":"А русский?","id":"welcome","updatedAt":1430646012}
@@ -33,14 +33,17 @@ eur_cur: |+
   data: {"text":"55.4111","id":"eur_cur","updatedAt":1432672691}
 
 outwarn: |+
-  data: {"current":"39","status":"warn","id":"outwarn","updatedAt":1432678558}
+  data: {"current":"20","status":"ok","id":"outwarn","updatedAt":1432740884}
 
 outavrg: |+
-  data: {"current":"44","status":"average","id":"outavrg","updatedAt":1432678558}
+  data: {"current":"24","status":"ok","id":"outavrg","updatedAt":1432740884}
 
 outhigh: |+
-  data: {"current":75,"status":"high","id":"outhigh","updatedAt":1432678558}
+  data: {"current":75,"status":"ok","id":"outhigh","updatedAt":1432740884}
 
 outdis: |+
-  data: {"current":0,"status":"ok","id":"outdis","updatedAt":1432678558}
+  data: {"current":0,"status":"ok","id":"outdis","updatedAt":1432740884}
+
+traffic: |+
+  data: {"points":[{"x":"2015-05-27 18:34:44 +0300","y":"101130360"},{"x":"2015-05-27 18:34:44 +0300","y":"18542392"}],"id":"traffic","updatedAt":1432740884}
 

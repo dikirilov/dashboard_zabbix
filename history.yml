@@ -1,24 +1,24 @@
 ---
 convergence: |+
-  data: {"points":[{"x":1029,"y":9},{"x":1030,"y":34},{"x":1031,"y":35},{"x":1032,"y":16},{"x":1033,"y":8},{"x":1034,"y":19},{"x":1035,"y":31},{"x":1036,"y":45},{"x":1037,"y":35},{"x":1038,"y":17}],"id":"convergence","updatedAt":1432740884}
+  data: {"points":[{"x":97,"y":27},{"x":98,"y":12},{"x":99,"y":10},{"x":100,"y":18},{"x":101,"y":44},{"x":102,"y":34},{"x":103,"y":43},{"x":104,"y":28},{"x":105,"y":5},{"x":106,"y":44}],"id":"convergence","updatedAt":1433169802}
 
 buzzwords: |+
-  data: {"items":[{"label":"Pivoting","value":18},{"label":"Streamlininess","value":16},{"label":"Leverage","value":21},{"label":"Turn-key","value":2},{"label":"Paradigm shift","value":12},{"label":"Synergy","value":24},{"label":"Enterprise","value":0},{"label":"Exit strategy","value":11},{"label":"Web 2.0","value":24}],"id":"buzzwords","updatedAt":1432740884}
+  data: {"items":[{"label":"Streamlininess","value":8},{"label":"Paradigm shift","value":8},{"label":"Enterprise","value":9},{"label":"Synergy","value":13},{"label":"Leverage","value":9},{"label":"Exit strategy","value":15},{"label":"Web 2.0","value":8},{"label":"Turn-key","value":13},{"label":"Pivoting","value":13}],"id":"buzzwords","updatedAt":1433169802}
 
 valuation: |+
-  data: {"current":0,"last":76,"id":"valuation","updatedAt":1432740884}
+  data: {"current":47,"last":88,"id":"valuation","updatedAt":1433169802}
 
 karma: |+
-  data: {"current":38810,"last":36888,"id":"karma","updatedAt":1432740884}
+  data: {"current":67276,"last":176521,"id":"karma","updatedAt":1433169802}
 
 synergy: |+
-  data: {"value":86,"id":"synergy","updatedAt":1432740884}
+  data: {"value":22,"id":"synergy","updatedAt":1433169802}
 
 welcome: |+
   data: {"text":"А русский?","id":"welcome","updatedAt":1430646012}
 
 temp: |+
-  data: {"text":"17","id":"temp","updatedAt":1432672691}
+  data: {"current":"24°","status":"warn","id":"temp","updatedAt":1433169802}
 
 cur_usd: |+
   data: {"text":"51.9595","id":"cur_usd","updatedAt":1430695894}
@@ -27,23 +27,38 @@ cur_eur: |+
   data: {"text":"58.0556","id":"cur_eur","updatedAt":1430695894}
 
 usd_cur: |+
-  data: {"text":"50.9305","id":"usd_cur","updatedAt":1432672691}
+  data: {"text":"51.8570","id":"usd_cur","updatedAt":1432740102}
 
 eur_cur: |+
-  data: {"text":"55.4111","id":"eur_cur","updatedAt":1432672691}
+  data: {"text":"56.3861","id":"eur_cur","updatedAt":1432740102}
 
 outwarn: |+
-  data: {"current":"20","status":"ok","id":"outwarn","updatedAt":1432740884}
+  data: {"current":"20","status":"ok","id":"outwarn","updatedAt":1432741372}
 
 outavrg: |+
-  data: {"current":"24","status":"ok","id":"outavrg","updatedAt":1432740884}
+  data: {"current":"24","status":"ok","id":"outavrg","updatedAt":1432741372}
 
 outhigh: |+
-  data: {"current":75,"status":"ok","id":"outhigh","updatedAt":1432740884}
+  data: {"current":75,"status":"ok","id":"outhigh","updatedAt":1432741372}
 
 outdis: |+
-  data: {"current":0,"status":"ok","id":"outdis","updatedAt":1432740884}
+  data: {"current":0,"status":"ok","id":"outdis","updatedAt":1432741372}
+
+front_temp: |+
+  data: {"current":"19°","status":"ok","id":"front_temp","updatedAt":1433167527}
+
+back_temp: |+
+  data: {"current":"24°","status":"ok","id":"back_temp","updatedAt":1433167527}
+
+amount: |+
+  data: {"current":75,"status":"ok","id":"amount","updatedAt":1433169802}
+
+problems: |+
+  data: {"current":0,"status":null,"id":"problems","updatedAt":1433169802}
 
 traffic: |+
-  data: {"points":[{"x":"2015-05-27 18:34:44 +0300","y":"101130360"},{"x":"2015-05-27 18:34:44 +0300","y":"18542392"}],"id":"traffic","updatedAt":1432740884}
+  data: {"points":[{"x":"2015-06-01 17:43:22 +0300","y":"144264952"},{"x":"2015-06-01 17:43:22 +0300","y":"56274376"}],"id":"traffic","updatedAt":1433169802}
+
+cpu6: |+
+  data: {"current":"6%","status":"ok","id":"cpu6","updatedAt":1433169802}
 

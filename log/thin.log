@@ -14,3 +14,846 @@ Listening on 0.0.0.0:3031, CTRL+C to stop
 192.168.11.61 - - [27/May/2015 18:37:32] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0048
 192.168.11.61 - - [27/May/2015 18:37:33] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0012
 192.168.11.61 - - [27/May/2015 18:37:33] "GET /views/graph.html HTTP/1.1" 200 167 0.0013
+192.168.11.61 - - [27/May/2015 18:41:11] "GET /events HTTP/1.1" 200 - 218.4940
+192.168.11.211 - - [27/May/2015 18:43:09] "GET / HTTP/1.1" 302 - 0.0009
+192.168.11.211 - - [27/May/2015 18:43:09] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0053
+192.168.11.211 - - [27/May/2015 18:43:10] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0011
+192.168.11.211 - - [27/May/2015 18:43:10] "GET /views/graph.html HTTP/1.1" 200 167 0.0009
+192.168.11.211 - - [27/May/2015 18:43:52] "GET /events HTTP/1.1" 200 - 42.7710
+93.81.68.45 - - [28/May/2015 14:30:01] "GET / HTTP/1.1" 302 - 0.0485
+93.81.68.45 - - [28/May/2015 14:30:01] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0710
+93.81.68.45 - - [28/May/2015 14:30:04] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0185
+93.81.68.45 - - [28/May/2015 14:30:04] "GET /views/graph.html HTTP/1.1" 200 167 0.0096
+93.81.68.45 - - [28/May/2015 14:30:19] "GET /events HTTP/1.1" 200 - 15.6045
+93.81.68.45 - - [28/May/2015 15:38:21] "GET / HTTP/1.1" 302 - 0.0090
+93.81.68.45 - - [28/May/2015 15:38:21] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0052
+93.81.68.45 - - [28/May/2015 15:38:24] "GET /favicon.ico HTTP/1.1" 200 17370 0.0124
+93.81.68.45 - - [28/May/2015 15:38:24] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0011
+93.81.68.45 - - [28/May/2015 15:38:24] "GET /views/graph.html HTTP/1.1" 200 167 0.0010
+93.81.68.45 - - [28/May/2015 15:38:32] "GET /events HTTP/1.1" 200 - 8.7216
+93.81.68.45 - - [28/May/2015 16:07:21] "GET / HTTP/1.1" 302 - 0.0015
+93.81.68.45 - - [28/May/2015 16:07:21] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0069
+93.81.68.45 - - [28/May/2015 16:07:22] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0019
+93.81.68.45 - - [28/May/2015 16:07:22] "GET /views/graph.html HTTP/1.1" 200 167 0.0012
+93.81.68.45 - - [28/May/2015 16:07:35] "GET /events HTTP/1.1" 200 - 13.5492
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:583:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:478:in `get_response'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:455:in `get'
+/root/dashboard/jobs/demo.rb:5:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+195.191.175.244 - - [29/May/2015 00:53:59] "GET / HTTP/1.1" 302 - 0.0085
+195.191.175.244 - - [29/May/2015 00:53:59] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0047
+195.191.175.244 - - [29/May/2015 00:54:00] "GET /favicon.ico HTTP/1.1" 200 17370 0.0009
+195.191.175.244 - - [29/May/2015 00:54:00] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0011
+195.191.175.244 - - [29/May/2015 00:54:00] "GET /views/graph.html HTTP/1.1" 200 167 0.0096
+195.191.175.244 - - [29/May/2015 00:54:06] "GET /events HTTP/1.1" 200 - 5.9270
+195.191.175.244 - - [29/May/2015 03:29:34] "GET / HTTP/1.1" 302 - 0.0013
+195.191.175.244 - - [29/May/2015 03:29:34] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0146
+195.191.175.244 - - [29/May/2015 03:29:36] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0014
+195.191.175.244 - - [29/May/2015 03:29:36] "GET /views/graph.html HTTP/1.1" 200 167 0.0012
+195.191.175.244 - - [29/May/2015 03:29:45] "GET /events HTTP/1.1" 200 - 10.1227
+93.81.109.68 - - [29/May/2015 17:31:00] "GET / HTTP/1.1" 302 - 0.0119
+93.81.109.68 - - [29/May/2015 17:31:01] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0097
+93.81.109.68 - - [29/May/2015 17:31:03] "GET /favicon.ico HTTP/1.1" 200 17370 0.0010
+93.81.109.68 - - [29/May/2015 17:31:03] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0026
+93.81.109.68 - - [29/May/2015 17:31:03] "GET /views/graph.html HTTP/1.1" 200 167 0.0016
+================================================================================
+scheduler caught exception:
+Zabby::APIError
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:125:in `format_exception'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:146:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Zabby::APIError
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:125:in `format_exception'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:146:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Zabby::APIError
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:125:in `format_exception'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:146:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Zabby::APIError
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:125:in `format_exception'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:146:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Zabby::APIError
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:125:in `format_exception'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:146:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection reset by peer
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/protocol.rb:153:in `read_nonblock'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/protocol.rb:153:in `rbuf_fill'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/protocol.rb:134:in `readuntil'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/protocol.rb:144:in `readline'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http/response.rb:39:in `read_status_line'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http/response.rb:28:in `read_new'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1414:in `block in transport_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1411:in `catch'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1411:in `transport_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1384:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1377:in `block in request'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:853:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+Connection refused - connect(2) for "zabbix.guu.ru" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+93.81.109.68 - - [29/May/2015 19:02:19] "GET / HTTP/1.1" 302 - 0.0024
+93.81.109.68 - - [29/May/2015 19:02:19] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0321
+93.81.109.68 - - [29/May/2015 19:02:25] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0103
+93.81.109.68 - - [29/May/2015 19:02:25] "GET /views/graph.html HTTP/1.1" 200 167 0.0103
+93.81.109.68 - - [29/May/2015 19:03:38] "GET /events HTTP/1.1" 200 - 73.8626
+93.81.109.68 - - [29/May/2015 19:03:38] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0044
+93.81.109.68 - - [29/May/2015 19:03:39] "GET /favicon.ico HTTP/1.1" 200 17370 0.0135
+93.81.109.68 - - [29/May/2015 19:03:39] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0009
+93.81.109.68 - - [29/May/2015 19:03:39] "GET /views/graph.html HTTP/1.1" 200 167 0.0011
+93.81.109.68 - - [29/May/2015 20:05:08] "GET /events HTTP/1.1" 200 - 3690.0486
+93.81.109.68 - - [29/May/2015 21:27:09] "GET /events HTTP/1.1" 200 - 3137.4936
+================================================================================
+scheduler caught exception:
+undefined method `[]' for nil:NilClass
+/root/dashboard/jobs/demo.rb:8:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+================================================================================
+scheduler caught exception:
+getaddrinfo: Name or service not known
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:135:in `query_zabbix_rpc'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/connection.rb:85:in `perform_request'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/zclass.rb:73:in `method_missing'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block (2 levels) in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `instance_eval'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/zabby-0.1.2/lib/zabby/runner.rb:50:in `run'
+/root/dashboard/jobs/zabbix_trigger.rb:29:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+93.81.109.68 - - [30/May/2015 13:37:24] "GET / HTTP/1.1" 302 - 0.0060
+93.81.109.68 - - [30/May/2015 13:37:24] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0446
+93.81.109.68 - - [30/May/2015 13:37:26] "GET /favicon.ico HTTP/1.1" 200 17370 0.0123
+93.81.109.68 - - [30/May/2015 13:37:26] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0010
+93.81.109.68 - - [30/May/2015 13:37:27] "GET /views/graph.html HTTP/1.1" 200 167 0.0011
+93.81.109.68 - - [30/May/2015 13:37:35] "GET /events HTTP/1.1" 200 - 9.4909
+================================================================================
+scheduler caught exception:
+Connection timed out - connect(2) for "api.openweathermap.org" port 80
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `open'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/timeout.rb:74:in `timeout'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:852:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:583:in `start'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:478:in `get_response'
+/root/.rbenv/versions/2.2.2/lib/ruby/2.2.0/net/http.rb:455:in `get'
+/root/dashboard/jobs/demo.rb:5:in `block in <top (required)>'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:230:in `trigger_block'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/jobs.rb:204:in `block in trigger'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `call'
+/root/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rufus-scheduler-2.0.24/lib/rufus/sc/scheduler.rb:430:in `block in trigger_job'
+================================================================================
+93.81.109.68 - - [31/May/2015 13:24:49] "GET / HTTP/1.1" 302 - 0.0702
+93.81.109.68 - - [31/May/2015 13:24:49] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0992
+93.81.109.68 - - [31/May/2015 13:24:52] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0051
+93.81.109.68 - - [31/May/2015 13:24:52] "GET /views/graph.html HTTP/1.1" 200 167 0.0057
+93.81.109.68 - - [31/May/2015 13:25:10] "GET /events HTTP/1.1" 200 - 19.2253
+192.168.11.211 - - [01/Jun/2015 13:59:41] "GET / HTTP/1.1" 302 - 0.0961
+192.168.11.211 - - [01/Jun/2015 13:59:41] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0553
+192.168.11.211 - - [01/Jun/2015 13:59:42] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0112
+192.168.11.211 - - [01/Jun/2015 13:59:42] "GET /views/graph.html HTTP/1.1" 200 167 0.0064
+192.168.11.211 - - [01/Jun/2015 16:21:54] "GET / HTTP/1.1" 302 - 0.0021
+192.168.11.211 - - [01/Jun/2015 16:21:54] "GET /zabbix_trigger HTTP/1.1" 200 2835 0.0046
+192.168.11.211 - - [01/Jun/2015 16:21:55] "GET /views/zabbix.html HTTP/1.1" 200 387 0.0011
+192.168.11.211 - - [01/Jun/2015 16:21:55] "GET /views/graph.html HTTP/1.1" 200 167 0.0008
+Waiting for 2 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now

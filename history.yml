@@ -1,24 +1,24 @@
 ---
 convergence: |+
-  data: {"points":[{"x":97,"y":27},{"x":98,"y":12},{"x":99,"y":10},{"x":100,"y":18},{"x":101,"y":44},{"x":102,"y":34},{"x":103,"y":43},{"x":104,"y":28},{"x":105,"y":5},{"x":106,"y":44}],"id":"convergence","updatedAt":1433169802}
+  data: {"points":[{"x":155,"y":20},{"x":156,"y":44},{"x":157,"y":26},{"x":158,"y":20},{"x":159,"y":5},{"x":160,"y":41},{"x":161,"y":24},{"x":162,"y":25},{"x":163,"y":34},{"x":164,"y":45}],"id":"convergence","updatedAt":1433172254}
 
 buzzwords: |+
-  data: {"items":[{"label":"Streamlininess","value":8},{"label":"Paradigm shift","value":8},{"label":"Enterprise","value":9},{"label":"Synergy","value":13},{"label":"Leverage","value":9},{"label":"Exit strategy","value":15},{"label":"Web 2.0","value":8},{"label":"Turn-key","value":13},{"label":"Pivoting","value":13}],"id":"buzzwords","updatedAt":1433169802}
+  data: {"items":[{"label":"Enterprise","value":18},{"label":"Leverage","value":25},{"label":"Paradigm shift","value":17},{"label":"Pivoting","value":18},{"label":"Exit strategy","value":13},{"label":"Synergy","value":15},{"label":"Turn-key","value":15},{"label":"Streamlininess","value":15},{"label":"Web 2.0","value":18}],"id":"buzzwords","updatedAt":1433172254}
 
 valuation: |+
-  data: {"current":47,"last":88,"id":"valuation","updatedAt":1433169802}
+  data: {"current":35,"last":5,"id":"valuation","updatedAt":1433172254}
 
 karma: |+
-  data: {"current":67276,"last":176521,"id":"karma","updatedAt":1433169802}
+  data: {"current":124155,"last":57259,"id":"karma","updatedAt":1433172254}
 
 synergy: |+
-  data: {"value":22,"id":"synergy","updatedAt":1433169802}
+  data: {"value":56,"id":"synergy","updatedAt":1433172254}
 
 welcome: |+
   data: {"text":"А русский?","id":"welcome","updatedAt":1430646012}
 
 temp: |+
-  data: {"current":"24°","status":"warn","id":"temp","updatedAt":1433169802}
+  data: {"current":"24","status":"warn","updatedAt":"18:24","suffix":"°","id":"temp"}
 
 cur_usd: |+
   data: {"text":"51.9595","id":"cur_usd","updatedAt":1430695894}
@@ -51,14 +51,14 @@ back_temp: |+
   data: {"current":"24°","status":"ok","id":"back_temp","updatedAt":1433167527}
 
 amount: |+
-  data: {"current":75,"status":"ok","id":"amount","updatedAt":1433169802}
+  data: {"current":75,"status":"ok","updatedAt":"01.06","id":"amount"}
 
 problems: |+
-  data: {"current":0,"status":null,"id":"problems","updatedAt":1433169802}
+  data: {"current":0,"status":null,"updatedAt":"18:24","id":"problems"}
 
 traffic: |+
-  data: {"points":[{"x":"2015-06-01 17:43:22 +0300","y":"144264952"},{"x":"2015-06-01 17:43:22 +0300","y":"56274376"}],"id":"traffic","updatedAt":1433169802}
+  data: {"points":[{"x":"2015-06-01 18:24:06 +0300","y":"111537136"},{"x":"2015-06-01 18:24:06 +0300","y":"100160248"}],"id":"traffic","updatedAt":1433172246}
 
 cpu6: |+
-  data: {"current":"6%","status":"ok","id":"cpu6","updatedAt":1433169802}
+  data: {"current":"5","status":"ok","updatedAt":"18:24","suffix":"%","id":"cpu6"}
 

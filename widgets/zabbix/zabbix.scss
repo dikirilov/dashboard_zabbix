@@ -8,12 +8,15 @@
 $background-color: #222;
 $text-color: #fff;
 
+$background-ok-color: #33B619;
+$text-ok-color: #fff;
+
 $background-average-color-1: #A0522D;
 $background-average-color-2: #FFA07A;
 $text-average-color: #fff;
 
-$background-warn-color-1: #FFFF66;
-$background-warn-color-2: #FF9618;
+$background-warn-color-1: #FFA618;
+$background-warn-color-2: #FF6618;
 $text-warn-color: #fff;
 
 $background-high-color-1: #CD5C5C;
@@ -134,6 +137,10 @@ h3 {
   margin: 0px auto;
 }
 
+.value {
+  font-size: 120px;
+}
+
 .icon-background {
   width: 100%!important;
   height: 100%;
@@ -220,6 +227,11 @@ h3 {
   .title, .more-info {
     color: $text-disaster-color;
   }
+}
+
+.widget.status-ok {
+  color: $text-ok-color;
+  background-color: $background-ok-color;
 }
 
 .more-info {

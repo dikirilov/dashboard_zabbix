@@ -1,7 +1,17 @@
 <h1 class="title" data-bind="title"></h1>
 
-<input class="meter" data-angleOffset=-125 data-angleArc=250 data-width=200 data-readOnly=true data-bind-value="value | shortenedNumber" data-bind-data-min="min" data-bind-data-max="max">
+<table>
+<tr>
+<td><h3 class="sub_title" data-bind="subtitle1"></h3></td>
+<td><h3 class="sub_title" data-bind="subtitle2"></h3></td>
+<!--<td><input class="meter" data-angleOffset=-125 data-angleArc=250 data-width=200 data-readOnly=true data-bind-value="value1 | shortenedNumber" data-bind-data-min="min" data-bind-data-max="max"></td>-->
+</tr>
+
+<tr>
+<td><input class="meter" data-angleOffset=-125 data-angleArc=250 data-width=200 data-readOnly=true data-bind-value="value1 | shortenedNumber" data-bind-data-min="min" data-bind-data-max="max"></td>
+<td><input class="meter" data-angleOffset=-125 data-angleArc=250 data-width=200 data-readOnly=true data-bind-value="value2 | shortenedNumber" data-bind-data-min="min" data-bind-data-max="max"></td>
+</tr>
 
 <p class="more-info" data-bind="moreinfo"></p>
 
-<p class="updated-at" data-bind="updatedAtMessage"></p>
+<p class="updated-at" data-bind="updatedAt | append ' | ' | append fromInfo"></p>

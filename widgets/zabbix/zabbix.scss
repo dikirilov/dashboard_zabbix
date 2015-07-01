@@ -120,7 +120,7 @@ h1 {
 }
 h2 {
   text-transform: uppercase;
-  font-size: 76px;
+  font-size: 200px;
   font-weight: 700;
   color: $text-color;
 }
@@ -135,6 +135,10 @@ h3 {
 // ----------------------------------------------------------------------------
 .gridster {
   margin: 0px auto;
+}
+
+.title {
+  font-size: 50px;
 }
 
 .value {

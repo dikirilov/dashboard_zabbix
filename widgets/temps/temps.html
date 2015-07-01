@@ -1,0 +1,18 @@
+<h1 class="title" data-bind="title"></h1>
+
+<table>
+
+<tr>
+<td><h3 class="tab_title" data-bind="title1"></h3></td>
+<td><h3 id="val1" class="value" data-bind="temp1 | prepend prefix | append suffix"></h3></td>
+</tr>
+
+<tr>
+<td><h3 class="tab_title" data-bind="title2"></h3></td>
+<td><h3 id="val2" class="value" data-bind="temp2 | prepend prefix | append suffix"></h3></td>
+</tr>
+
+</table>
+
+<p class="updated-at" data-bind="updatedAt | append ' | ' | append 'Zabbix'"></p>
+

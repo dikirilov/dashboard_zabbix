@@ -1,0 +1,70 @@
+$background-color: #222;
+$text-color: #fff;
+
+$background-ok-color: #33B619;
+$text-ok-color: #fff;
+
+$background-average-color-1: #A0522D;
+$background-average-color-2: #FFA07A;
+$text-average-color: #fff;
+
+$background-warn-color-1: #FFA618;
+$background-warn-color-2: #FF6618;
+$text-warn-color: #fff;
+
+$background-high-color-1: #CD5C5C;
+$background-high-color-2: #FF9999;
+$text-high-color: #fff;
+
+$background-disaster-color-1: #E82711;
+$background-disaster-color-2: #9B2D23;
+$text-disaster-color: #fff;
+
+$background-ok-color-1: #33B619;
+$text-ok-color: #fff;
+
+.widget-temps {
+
+}
+
+.value.status-average {
+  background-color: $background-average-color-1;
+}
+
+.value.status-warn {
+  background-color: $background-warn-color-1;
+}
+
+.value.status-high {
+  background-color: $background-high-color-1;
+}
+
+.value.status-disaster {
+  background-color: $background-disaster-color-1;
+}
+
+.value.status-ok {
+  background-color: $background-ok-color-1;
+}
+
+.value {
+  border-radius: 10px;
+}
+
+#val2 {
+  margin-top: 15px;
+}
+
+.tab_title {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.title {
+  font-size: 50px;
+}
+
+.updated-at {
+  position: absolute;
+  bottom: 2px;
+}

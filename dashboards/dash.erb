@@ -4,30 +4,33 @@ $(function() {
   Dashing.widget_base_dimensions = [370, 340]
   Dashing.numColumns = 5
 });
+  setTimeout(function(){
+    window.location.reload(1);
+}, 86400000);
 </script>
 <% content_for :title do %>Мониторинг сетевой инфраструктуры сети ГУУ<% end %>
 <div class="gridster">
   <ul>
-    <li data-row="2" data-col="4" data-sizex="1" data-sizey="1">
-      <div data-id="temp" data-view="Zabbix" data-title="Температура в серверной"></div>
-    </li>
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
       <div data-id="amount" data-view="Zabbix" data-title="Устройств" style="background-color:#222;"></div>
     </li>
     <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
       <div data-id="problems" data-view="Zabbix" data-title="Проблем"></div>
     </li>
-    <li data-row="2" data-col="1" data-sizex="2" data-sizey="1" >
+<!--    <li data-row="2" data-col="1" data-sizex="2" data-sizey="1" >
       <div data-id="traffic" data-view="Graph" data-title="Траффик данных"></div>
-    </li>
+    </li> -->
     <li data-row="1" data-col="3" data-sizex="1" data-sizey="1" >
       <div data-id="cpu6" data-view="Zabbix" data-title="Загрузка сети"></div>
     </li>
     <li data-row="1" data-col="4" data-sizex="2" data-sizey="1" >
       <div data-id="clock" data-view="Clock" data-title="Время" style="background-color:#222;"></div>
     </li>
-    <li data-row="3" data-col="1" data-sizex="2" data-sizey="1" >
-      <div data-id="temps" data-view="Temps" data-title="Температура в серверной" data-title1="Передняя" data-title2="Задняя"  style="background-color:#222;"></div>
+    <li data-row="2" data-col="1" data-sizex="2" data-sizey="1" >
+      <div data-id="temps" data-view="Temps" data-title="Температура в серверной" data-title1="Холодный коридор" data-title2="Горячий коридор"  style="background-color:#222;"></div>
+    </li>
+    <li data-row="2" data-col="3" data-sizex="2" data-sizey="1" >
+      <div data-id="traff" data-view="Meter" data-title="Траффик в сети, Мб/с" data-min="0" data-max="200"></div>
     </li>
   </ul>
 </div>

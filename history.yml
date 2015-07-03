@@ -1,18 +1,18 @@
 ---
 convergence: |+
-  data: {"points":[{"x":124,"y":46},{"x":125,"y":25},{"x":126,"y":27},{"x":127,"y":42},{"x":128,"y":45},{"x":129,"y":44},{"x":130,"y":43},{"x":131,"y":7},{"x":132,"y":41},{"x":133,"y":10}],"id":"convergence","updatedAt":1435766660}
+  data: {"points":[{"x":589,"y":38},{"x":590,"y":13},{"x":591,"y":39},{"x":592,"y":4},{"x":593,"y":40},{"x":594,"y":10},{"x":595,"y":27},{"x":596,"y":39},{"x":597,"y":2},{"x":598,"y":0}],"id":"convergence","updatedAt":1435919739}
 
 buzzwords: |+
-  data: {"items":[{"label":"Leverage","value":15},{"label":"Exit strategy","value":13},{"label":"Paradigm shift","value":10},{"label":"Turn-key","value":12},{"label":"Streamlininess","value":14},{"label":"Web 2.0","value":16},{"label":"Pivoting","value":16},{"label":"Synergy","value":12},{"label":"Enterprise","value":15}],"id":"buzzwords","updatedAt":1435766660}
+  data: {"items":[{"label":"Leverage","value":27},{"label":"Turn-key","value":9},{"label":"Web 2.0","value":6},{"label":"Synergy","value":12},{"label":"Pivoting","value":15},{"label":"Paradigm shift","value":7},{"label":"Enterprise","value":26},{"label":"Exit strategy","value":4},{"label":"Streamlininess","value":2}],"id":"buzzwords","updatedAt":1435919739}
 
 valuation: |+
-  data: {"current":36,"last":88,"id":"valuation","updatedAt":1435766660}
+  data: {"current":76,"last":86,"id":"valuation","updatedAt":1435919739}
 
 karma: |+
-  data: {"current":118039,"last":125375,"id":"karma","updatedAt":1435766660}
+  data: {"current":197650,"last":117230,"id":"karma","updatedAt":1435919739}
 
 synergy: |+
-  data: {"value":86,"id":"synergy","updatedAt":1435766660}
+  data: {"value":24,"id":"synergy","updatedAt":1435919739}
 
 welcome: |+
   data: {"text":"somesome","id":"welcome","updatedAt":1435753961}
@@ -51,19 +51,19 @@ back_temp: |+
   data: {"current":"24°","status":"ok","id":"back_temp","updatedAt":1433167527}
 
 amount: |+
-  data: {"current":80,"updatedAt":"19:04","id":"amount"}
+  data: {"current":80,"updatedAt":"13:35","id":"amount"}
 
 problems: |+
-  data: {"current":0,"status":"ok","updatedAt":"19:04","id":"problems"}
+  data: {"current":0,"status":"ok","updatedAt":"13:35","id":"problems"}
 
 traffic: |+
   data: {"points":[{"x":"2015-07-01 18:09:23 +0300","y":"74658928"},{"x":"2015-07-01 18:09:23 +0300","y":"42511544"}],"id":"traffic","updatedAt":1435763363}
 
 cpu6: |+
-  data: {"current":"3","status":"ok","updatedAt":"19:04","suffix":"%","id":"cpu6"}
+  data: {"current":"4","status":"ok","updatedAt":"13:35","suffix":"%","id":"cpu6"}
 
 temps: |+
-  data: {"temp1":"19","temp2":"26","updatedAt":"19:04","suffix":"°","status1":"ok","status2":"ok","id":"temps"}
+  data: {"temp1":"21","temp2":"27","updatedAt":"13:35","suffix":"°","status1":"ok","status2":"ok","id":"temps"}
 
 zabbix: |+
   data: {"current":"22","id":"zabbix","updatedAt":1435754112}
@@ -75,5 +75,8 @@ download: |+
   data: {"value":"48.09","updatedAt":"19:00","id":"download"}
 
 traff: |+
-  data: {"value1":"34.43","value2":"47.07","subtitle1":"Входящий","subtitle2":"Исходящий","updatedAt":"19:04","id":"traff"}
+  data: {"value1":"0","value2":"55","subtitle1":"Исходящий","subtitle2":"Входящий","updatedAt":"13:00","fromInfo":"Zabbix","id":"traff"}
+
+traff_in_net: |+
+  data: {"value1":0.0,"value2":181.0,"subtitle1":"Исходящий","subtitle2":"Входящий","updatedAt":"13:35","fromInfo":"Zabbix","id":"traff_in_net"}
 

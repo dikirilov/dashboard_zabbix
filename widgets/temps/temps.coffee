@@ -6,10 +6,12 @@ class Dashing.Temps extends Dashing.Widget
     # This is fired when the widget is done being rendered
 
   onData: (data) ->
-    if data.status1
+    if data.status1 
+#      $('#val1').classList.remove("/\bstatus-\S+\g");
 #      $('#val1').attr 'class', (i,c) -> 
 #        c.replace /\bstatus-\S+\g, ''
       $('#val1').addClass "status-#{data.status1}"
+#    
     if data.status2
 #      $('#val2').attr 'class', (i,c) ->
 #        c.replace /\bstatus-\S+\g, ''

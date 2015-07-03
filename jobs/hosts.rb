@@ -19,7 +19,3 @@ SCHEDULER.every '1d' do
   send_event( 'amount', { current: hostc, status: "ok", updatedAt: today } )
 end
 
-
-
-
-

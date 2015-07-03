@@ -1,11 +1,15 @@
 class Dashing.Meter extends Dashing.Widget
 
-  @accessor 'value', Dashing.AnimatedValue
+  @accessor 'value1', Dashing.AnimatedValue
+  @accessor 'value2', Dashing.AnimatedValue
 
   constructor: ->
     super
-    @observe 'value', (value) ->
-      $(@node).find(".meter").val(value).trigger('change')
+    @observe 'value1', (value) ->
+      $(@node).find("#meter1").val(value).trigger('change')
+
+    @observe 'value2', (value) ->
+      $(@node).find("#meter2").val(value).trigger('change')
 
   ready: ->
     meter = $(@node).find(".meter")

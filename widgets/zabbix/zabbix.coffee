@@ -1,5 +1,5 @@
 class Dashing.Zabbix extends Dashing.Widget
-# @accessor 'current', Dashing.AnimatedValue
+ @accessor 'current', Dashing.AnimatedValue
 
  onData: (data) ->
   if data.status

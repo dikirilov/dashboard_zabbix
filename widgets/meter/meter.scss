@@ -4,7 +4,7 @@
 $background-color:  #222;
 
 $meter-background-color:  darken($background-color, 15%);
-$meter-color: grey;
+$meter-color: white;
 
 // ----------------------------------------------------------------------------
 // Widget-meter styles
@@ -17,6 +17,13 @@ $meter-color: grey;
     background-color: $meter-background-color;
     color: $meter-color;
   }
+  .title {
+    font-size: 60px;
+  }
 }
 
+.sub_title {
+  font-size: 55px;
+  font-weight: 300;
+}
 

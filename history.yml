@@ -1,18 +1,18 @@
 ---
 convergence: |+
-  data: {"points":[{"x":589,"y":38},{"x":590,"y":13},{"x":591,"y":39},{"x":592,"y":4},{"x":593,"y":40},{"x":594,"y":10},{"x":595,"y":27},{"x":596,"y":39},{"x":597,"y":2},{"x":598,"y":0}],"id":"convergence","updatedAt":1435919739}
+  data: {"points":[{"x":755,"y":41},{"x":756,"y":22},{"x":757,"y":0},{"x":758,"y":2},{"x":759,"y":22},{"x":760,"y":18},{"x":761,"y":26},{"x":762,"y":0},{"x":763,"y":36},{"x":764,"y":21}],"id":"convergence","updatedAt":1437559524}
 
 buzzwords: |+
-  data: {"items":[{"label":"Leverage","value":27},{"label":"Turn-key","value":9},{"label":"Web 2.0","value":6},{"label":"Synergy","value":12},{"label":"Pivoting","value":15},{"label":"Paradigm shift","value":7},{"label":"Enterprise","value":26},{"label":"Exit strategy","value":4},{"label":"Streamlininess","value":2}],"id":"buzzwords","updatedAt":1435919739}
+  data: {"items":[{"label":"Exit strategy","value":25},{"label":"Synergy","value":24},{"label":"Enterprise","value":1},{"label":"Turn-key","value":0},{"label":"Pivoting","value":22},{"label":"Streamlininess","value":1},{"label":"Web 2.0","value":16},{"label":"Leverage","value":10},{"label":"Paradigm shift","value":25}],"id":"buzzwords","updatedAt":1437559524}
 
 valuation: |+
-  data: {"current":76,"last":86,"id":"valuation","updatedAt":1435919739}
+  data: {"current":92,"last":32,"id":"valuation","updatedAt":1437559524}
 
 karma: |+
-  data: {"current":197650,"last":117230,"id":"karma","updatedAt":1435919739}
+  data: {"current":63530,"last":123667,"id":"karma","updatedAt":1437559524}
 
 synergy: |+
-  data: {"value":24,"id":"synergy","updatedAt":1435919739}
+  data: {"value":43,"id":"synergy","updatedAt":1437559524}
 
 welcome: |+
   data: {"text":"somesome","id":"welcome","updatedAt":1435753961}
@@ -51,19 +51,19 @@ back_temp: |+
   data: {"current":"24°","status":"ok","id":"back_temp","updatedAt":1433167527}
 
 amount: |+
-  data: {"current":80,"updatedAt":"13:35","id":"amount"}
+  data: {"current":80,"updatedAt":"13:05","id":"amount"}
 
 problems: |+
-  data: {"current":0,"status":"ok","updatedAt":"13:35","id":"problems"}
+  data: {"current":0,"status":"ok","updatedAt":"13:05","id":"problems"}
 
 traffic: |+
   data: {"points":[{"x":"2015-07-01 18:09:23 +0300","y":"74658928"},{"x":"2015-07-01 18:09:23 +0300","y":"42511544"}],"id":"traffic","updatedAt":1435763363}
 
 cpu6: |+
-  data: {"current":"4","status":"ok","updatedAt":"13:35","suffix":"%","id":"cpu6"}
+  data: {"current":"3","status":"ok","updatedAt":"13:05","suffix":"%","id":"cpu6"}
 
 temps: |+
-  data: {"temp1":"21","temp2":"27","updatedAt":"13:35","suffix":"°","status1":"ok","status2":"ok","id":"temps"}
+  data: {"temp1":"20","temp2":"25","updatedAt":"13:05","suffix":"°","status1":"ok","status2":"ok","id":"temps"}
 
 zabbix: |+
   data: {"current":"22","id":"zabbix","updatedAt":1435754112}
@@ -78,5 +78,11 @@ traff: |+
   data: {"value1":"0","value2":"55","subtitle1":"Исходящий","subtitle2":"Входящий","updatedAt":"13:00","fromInfo":"Zabbix","id":"traff"}
 
 traff_in_net: |+
-  data: {"value1":0.0,"value2":181.0,"subtitle1":"Исходящий","subtitle2":"Входящий","updatedAt":"13:35","fromInfo":"Zabbix","id":"traff_in_net"}
+  data: {"value1":0.0,"value2":65.41,"subtitle1":"Исходящий","subtitle2":"Входящий","updatedAt":"13:05","fromInfo":"Zabbix","id":"traff_in_net"}
+
+toDinner: |+
+  data: {"text":"1:54:35","id":"toDinner","updatedAt":1437559524}
+
+toEnd: |+
+  data: {"text":"4:54:35","id":"toEnd","updatedAt":1437559524}
 

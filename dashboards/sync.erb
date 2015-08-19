@@ -1,0 +1,17 @@
+<script type="text/javascript">
+$(function() {
+  // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
+  Dashing.widget_base_dimensions = [370, 340]
+  Dashing.numColumns = 5
+});
+#  setTimeout(function(){
+#    window.location = "dash";
+#}, 180000);
+</script>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="my_widget" data-view="Text"></div>
+    </li>
+  </ul>
+</div>

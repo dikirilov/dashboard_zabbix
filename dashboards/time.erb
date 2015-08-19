@@ -4,27 +4,27 @@ $(function() {
   Dashing.widget_base_dimensions = [370, 340]
   Dashing.numColumns = 5
 });
-//  setTimeout(function(){
-//    window.location.reload(1);
-//}, 86400000);
+  setTimeout(function(){
+    window.location = "dash";
+}, 30000);
 </script>
 <% content_for :title do %>Время<% end %>
 <div class="gridster">
   <ul>
     <li data-row="1" data-col="1" data-sizex="5" data-sizey="1">
-      <div data-id="clock" data-view="Clock"></div>
+      <div data-id="clock" data-view="Clock" style="background-color: #222;"></div>
     </li>
     <li data-row="2" data-col="1" data-sizex="3" data-sizey="1">
-      <div data-id="toDinner" data-view="Text" data-title="До обеда"></div>
+      <div data-id="toDinner" data-view="Base" data-title="До конца обеда" style="border-right: 2px solid white;"></div>
     </li>
     <li data-row="2" data-col="4" data-sizex="2" data-sizey="1">
-      <div data-id="dinner" data-view="Text" data-title="Обед" data-text="15:00"></div>
+      <div data-id="dinner" data-view="Base" data-title="Конец обеда" data-value="16:00"></div>
     </li>
     <li data-row="3" data-col="1" data-sizex="3" data-sizey="1">
-      <div data-id="toEnd" data-view="Text" data-title="До конца рабочего дня"></div>
+      <div data-id="toEnd" data-view="Base" data-title="До конца рабочего дня" style="border-right: 2px solid white;"></div>
     </li>
     <li data-row="3" data-col="4" data-sizex="2" data-sizey="1">
-      <div data-id="end" data-view="Text" data-title="Конец рабочего дня" data-text="18:00"></div>
+      <div data-id="end" data-view="Base" data-title="Конец рабочего дня" data-value="20:00"></div>
     </li>
   </ul>
 </div>

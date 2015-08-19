@@ -1,4 +1,7 @@
 require 'dashing'
+$: << File.expand_path('./lib', File.dirname(__FILE__))
+require 'dashing-contrib'
+DashingContrib.configure
 
 configure do
   set :auth_token, 'YOUR_AUTH_TOKEN'

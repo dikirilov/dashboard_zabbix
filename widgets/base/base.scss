@@ -1,0 +1,15 @@
+$background-color: #222;
+
+$text-color: white;
+
+.widget-base {
+
+ background-color: $background-color;
+ color: $text-color;
+
+ .updated-at
+ {
+  color: rgba(255, 255, 255, 0.7);
+ }
+
+}

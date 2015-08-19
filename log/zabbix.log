@@ -1,0 +1,937 @@
+# Logfile created on 2015-08-19 14:17:35 +0300 by logger.rb/41954
+I, [2015-08-19T14:17:59.526458 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:17:59.526595 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:17:59.526646 #4091]  INFO -- : Number of hosts: 924
+I, [2015-08-19T14:17:59.526692 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:17:59.526732 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:17:59.526783 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:18:17.435744 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:18:17.435880 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:18:17.435932 #4091]  INFO -- : Number of hosts: 932
+I, [2015-08-19T14:18:17.435979 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:18:17.436053 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:18:17.436111 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:18:37.132916 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:18:37.133054 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:18:37.133103 #4091]  INFO -- : Number of hosts: 932
+I, [2015-08-19T14:18:37.133146 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:18:37.133181 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:18:37.133216 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:18:57.395727 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:18:57.395849 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:18:57.395894 #4091]  INFO -- : Number of hosts: 932
+I, [2015-08-19T14:18:57.395938 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:18:57.395977 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:18:57.396040 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:19:17.300072 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:19:17.300169 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:19:17.300209 #4091]  INFO -- : Number of hosts: 945
+I, [2015-08-19T14:19:17.300269 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:19:17.300311 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:19:17.300345 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:19:37.379180 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:19:37.379323 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:19:37.379371 #4091]  INFO -- : Number of hosts: 945
+I, [2015-08-19T14:19:37.379412 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:19:37.379450 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:19:37.379486 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:19:57.260789 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:19:57.260922 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:19:57.260986 #4091]  INFO -- : Number of hosts: 945
+I, [2015-08-19T14:19:57.261065 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:19:57.261113 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:19:57.261181 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:20:17.264295 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:20:17.264422 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:20:17.264466 #4091]  INFO -- : Number of hosts: 945
+I, [2015-08-19T14:20:17.264507 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:20:17.264544 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:20:17.264608 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:20:37.192814 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:20:37.192927 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:20:37.192971 #4091]  INFO -- : Number of hosts: 956
+I, [2015-08-19T14:20:37.193012 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:20:37.193158 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:20:37.193246 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:20:57.296292 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:20:57.296407 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:20:57.296449 #4091]  INFO -- : Number of hosts: 956
+I, [2015-08-19T14:20:57.296489 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:20:57.296545 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:20:57.296583 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:21:17.214397 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:21:17.214518 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:21:17.214569 #4091]  INFO -- : Number of hosts: 956
+I, [2015-08-19T14:21:17.214616 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:21:17.214657 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:21:17.214703 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:21:37.279124 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:21:37.279244 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:21:37.279285 #4091]  INFO -- : Number of hosts: 961
+I, [2015-08-19T14:21:37.279327 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:21:37.279390 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:21:37.279437 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:21:57.202605 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:21:57.202700 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:21:57.202741 #4091]  INFO -- : Number of hosts: 961
+I, [2015-08-19T14:21:57.202799 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:21:57.202848 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:21:57.202908 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:22:17.262529 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:22:17.262664 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:22:17.262706 #4091]  INFO -- : Number of hosts: 961
+I, [2015-08-19T14:22:17.262776 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:22:17.262840 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:22:17.262881 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:22:37.235233 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:22:37.235406 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:22:37.235478 #4091]  INFO -- : Number of hosts: 923
+I, [2015-08-19T14:22:37.235569 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:22:37.235644 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:22:37.235707 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:22:57.354648 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:22:57.354775 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:22:57.354821 #4091]  INFO -- : Number of hosts: 923
+I, [2015-08-19T14:22:57.354864 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:22:57.354902 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:22:57.354940 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:23:17.202075 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:23:17.202199 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:23:17.202259 #4091]  INFO -- : Number of hosts: 923
+I, [2015-08-19T14:23:17.202312 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:23:17.202358 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:23:17.202408 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:23:37.363768 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:23:37.363877 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:23:37.363920 #4091]  INFO -- : Number of hosts: 929
+I, [2015-08-19T14:23:37.363963 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:23:37.364002 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:23:37.364075 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:23:57.113403 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:23:57.113535 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:23:57.113576 #4091]  INFO -- : Number of hosts: 929
+I, [2015-08-19T14:23:57.113618 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:23:57.113685 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:23:57.113735 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:24:17.357709 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:24:17.357799 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:24:17.357836 #4091]  INFO -- : Number of hosts: 929
+I, [2015-08-19T14:24:17.357888 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:24:17.357925 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:24:17.357959 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:24:37.264899 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:24:37.265001 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:24:37.265081 #4091]  INFO -- : Number of hosts: 941
+I, [2015-08-19T14:24:37.265124 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:24:37.265159 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:24:37.265192 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:24:57.421230 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:24:57.421357 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:24:57.421400 #4091]  INFO -- : Number of hosts: 941
+I, [2015-08-19T14:24:57.421438 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:24:57.421473 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:24:57.421530 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:25:17.243117 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:25:17.243252 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:25:17.243299 #4091]  INFO -- : Number of hosts: 941
+I, [2015-08-19T14:25:17.243340 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:25:17.243395 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:25:17.243477 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:25:37.407627 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:25:37.407747 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:25:37.407791 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:25:37.407835 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:25:37.407874 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:25:37.407912 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:25:57.235113 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:25:57.235229 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:25:57.235276 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:25:57.235321 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:25:57.235361 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:25:57.235400 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:26:17.292757 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:26:17.292912 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:26:17.292968 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:26:17.293042 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:26:17.293099 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:26:17.293141 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:26:37.191627 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:26:37.191713 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:26:37.191754 #4091]  INFO -- : Number of hosts: 956
+I, [2015-08-19T14:26:37.191805 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:26:37.191844 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:26:37.191880 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:26:57.324895 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:26:57.325049 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:26:57.325099 #4091]  INFO -- : Number of hosts: 956
+I, [2015-08-19T14:26:57.325141 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:26:57.325176 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:26:57.325210 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:27:17.226226 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:27:17.226354 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:27:17.226404 #4091]  INFO -- : Number of hosts: 925
+I, [2015-08-19T14:27:17.226446 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:27:17.226484 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:27:17.226522 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:27:37.421815 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:27:37.421962 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:27:37.422011 #4091]  INFO -- : Number of hosts: 925
+I, [2015-08-19T14:27:37.422094 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:27:37.422137 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:27:37.422176 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:27:57.276623 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:27:57.276749 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:27:57.276795 #4091]  INFO -- : Number of hosts: 925
+I, [2015-08-19T14:27:57.276872 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:27:57.276919 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:27:57.276957 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:28:17.406273 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:28:17.406396 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:28:17.406442 #4091]  INFO -- : Number of hosts: 925
+I, [2015-08-19T14:28:17.406487 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:28:17.406527 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:28:17.406566 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:28:37.141328 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:28:37.141444 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:28:37.141486 #4091]  INFO -- : Number of hosts: 934
+I, [2015-08-19T14:28:37.141528 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:28:37.141564 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:28:37.141598 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:28:57.379089 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:28:57.379195 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:28:57.379241 #4091]  INFO -- : Number of hosts: 934
+I, [2015-08-19T14:28:57.379283 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:28:57.379323 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:28:57.379361 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:29:17.669964 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:29:17.670101 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:29:17.670145 #4091]  INFO -- : Number of hosts: 941
+I, [2015-08-19T14:29:17.670184 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:29:17.670218 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:29:17.670252 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:29:37.641318 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:29:37.641437 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:29:37.641482 #4091]  INFO -- : Number of hosts: 941
+I, [2015-08-19T14:29:37.641526 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:29:37.641593 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:29:37.641640 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:29:57.301840 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:29:57.301997 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:29:57.302080 #4091]  INFO -- : Number of hosts: 941
+I, [2015-08-19T14:29:57.302127 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:29:57.302165 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:29:57.302201 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:30:17.481888 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:30:17.482001 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:30:17.482077 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:30:17.482128 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:30:17.482192 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:30:17.482235 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:30:37.258865 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:30:37.259005 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:30:37.259084 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:30:37.259131 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:30:37.259168 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:30:37.259204 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:30:57.381877 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:30:57.381999 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:30:57.382092 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:30:57.382153 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:30:57.382210 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:30:57.382248 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:31:17.371898 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:31:17.372036 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:31:17.372102 #4091]  INFO -- : Number of hosts: 947
+I, [2015-08-19T14:31:17.372166 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:31:17.372211 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:31:17.372269 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:31:37.438871 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:31:37.438994 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:31:37.439061 #4091]  INFO -- : Number of hosts: 957
+I, [2015-08-19T14:31:37.439109 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:31:37.439157 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:31:37.439198 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:31:57.230573 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:31:57.230715 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:31:57.230779 #4091]  INFO -- : Number of hosts: 957
+I, [2015-08-19T14:31:57.230826 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:31:57.230865 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:31:57.230901 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:32:17.469342 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:32:17.469460 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:32:17.469504 #4091]  INFO -- : Number of hosts: 957
+I, [2015-08-19T14:32:17.469547 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:32:17.469585 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:32:17.469622 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:32:37.290053 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:32:37.290176 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:32:37.290219 #4091]  INFO -- : Number of hosts: 923
+I, [2015-08-19T14:32:37.290263 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:32:37.290302 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:32:37.290363 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:32:57.425723 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:32:57.425814 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:32:57.425853 #4091]  INFO -- : Number of hosts: 923
+I, [2015-08-19T14:32:57.425892 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:32:57.425929 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:32:57.425963 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:33:17.217811 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:33:17.217925 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:33:17.217967 #4091]  INFO -- : Number of hosts: 923
+I, [2015-08-19T14:33:17.218007 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:33:17.218082 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:33:17.218122 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:33:37.142338 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:33:37.142453 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:33:37.142493 #4091]  INFO -- : Number of hosts: 930
+I, [2015-08-19T14:33:37.142531 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:33:37.142567 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:33:37.142602 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:33:57.284787 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:33:57.284895 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:33:57.284937 #4091]  INFO -- : Number of hosts: 930
+I, [2015-08-19T14:33:57.284977 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:33:57.285052 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:33:57.285103 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:34:17.216081 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:34:17.216216 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:34:17.216262 #4091]  INFO -- : Number of hosts: 939
+I, [2015-08-19T14:34:17.216306 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:34:17.216343 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:34:17.216379 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:34:37.314381 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:34:37.314516 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:34:37.314565 #4091]  INFO -- : Number of hosts: 939
+I, [2015-08-19T14:34:37.314609 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:34:37.314647 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:34:37.314685 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:34:57.170254 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:34:57.170371 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:34:57.170419 #4091]  INFO -- : Number of hosts: 939
+I, [2015-08-19T14:34:57.170484 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:34:57.170526 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:34:57.170563 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:35:17.346188 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:35:17.346355 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:35:17.346432 #4091]  INFO -- : Number of hosts: 944
+I, [2015-08-19T14:35:17.346482 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:35:17.346545 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:35:17.346589 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:35:37.122444 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:35:37.122568 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:35:37.122612 #4091]  INFO -- : Number of hosts: 944
+I, [2015-08-19T14:35:37.122653 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:35:37.122690 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:35:37.122726 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:35:57.310361 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:35:57.310471 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:35:57.310513 #4091]  INFO -- : Number of hosts: 944
+I, [2015-08-19T14:35:57.310551 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:35:57.310587 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:35:57.310622 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:36:17.130316 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:36:17.130430 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:36:17.130472 #4091]  INFO -- : Number of hosts: 946
+I, [2015-08-19T14:36:17.130510 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:36:17.130582 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:36:17.130627 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:36:37.363492 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:36:37.363612 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:36:37.363657 #4091]  INFO -- : Number of hosts: 946
+I, [2015-08-19T14:36:37.363701 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:36:37.363740 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:36:37.363778 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:36:57.197790 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:36:57.197916 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:36:57.197985 #4091]  INFO -- : Number of hosts: 946
+I, [2015-08-19T14:36:57.198078 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:36:57.198125 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:36:57.198182 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:37:17.350656 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:37:17.350784 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:37:17.350861 #4091]  INFO -- : Number of hosts: 908
+I, [2015-08-19T14:37:17.350948 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:37:17.350995 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:37:17.351079 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:37:37.156809 #4091]  INFO -- : Temperature Front: 22
+I, [2015-08-19T14:37:37.156899 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:37:37.156942 #4091]  INFO -- : Number of hosts: 908
+I, [2015-08-19T14:37:37.156983 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:37:37.157052 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:37:37.157105 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:37:57.382256 #4091]  INFO -- : Temperature Front: 22
+I, [2015-08-19T14:37:57.382384 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:37:57.382440 #4091]  INFO -- : Number of hosts: 908
+I, [2015-08-19T14:37:57.382485 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:37:57.382524 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:37:57.382561 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:38:17.252798 #4091]  INFO -- : Temperature Front: 22
+I, [2015-08-19T14:38:17.252923 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:38:17.252979 #4091]  INFO -- : Number of hosts: 917
+I, [2015-08-19T14:38:17.253088 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:38:17.253141 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:38:17.253182 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:38:37.387986 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:38:37.388133 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:38:37.388183 #4091]  INFO -- : Number of hosts: 917
+I, [2015-08-19T14:38:37.388225 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:38:37.388265 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:38:37.388304 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:38:57.268777 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:38:57.268909 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:38:57.268967 #4091]  INFO -- : Number of hosts: 917
+I, [2015-08-19T14:38:57.269041 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:38:57.269099 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:38:57.269141 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:39:17.469421 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:39:17.469543 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:39:17.469590 #4091]  INFO -- : Number of hosts: 924
+I, [2015-08-19T14:39:17.469636 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:39:17.469678 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:39:17.469718 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:39:37.212391 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:39:37.212507 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:39:37.212548 #4091]  INFO -- : Number of hosts: 924
+I, [2015-08-19T14:39:37.212588 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:39:37.212624 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:39:37.212659 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:39:57.513363 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:39:57.513488 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:39:57.513542 #4091]  INFO -- : Number of hosts: 924
+I, [2015-08-19T14:39:57.513587 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:39:57.513627 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:39:57.513690 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:40:17.231687 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:40:17.231814 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:40:17.231866 #4091]  INFO -- : Number of hosts: 924
+I, [2015-08-19T14:40:17.231909 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:40:17.231946 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:40:17.231982 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:40:37.553381 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:40:37.553513 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:40:37.553585 #4091]  INFO -- : Number of hosts: 931
+I, [2015-08-19T14:40:37.553637 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:40:37.553700 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:40:37.553745 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:40:57.243581 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:40:57.243701 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:40:57.243744 #4091]  INFO -- : Number of hosts: 931
+I, [2015-08-19T14:40:57.243784 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:40:57.243821 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:40:57.243857 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:41:17.421219 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:41:17.421343 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:41:17.421389 #4091]  INFO -- : Number of hosts: 931
+I, [2015-08-19T14:41:17.421432 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:41:17.421470 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:41:17.421506 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:41:37.224976 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:41:37.225138 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:41:37.225186 #4091]  INFO -- : Number of hosts: 935
+I, [2015-08-19T14:41:37.225229 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:41:37.225267 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:41:37.225303 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:41:57.380749 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:41:57.380832 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:41:57.380871 #4091]  INFO -- : Number of hosts: 935
+I, [2015-08-19T14:41:57.380910 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:41:57.380947 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:41:57.380983 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:42:17.175324 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:42:17.175432 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:42:17.175472 #4091]  INFO -- : Number of hosts: 935
+I, [2015-08-19T14:42:17.175509 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:42:17.175541 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:42:17.175582 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:42:37.307789 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:42:37.307891 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:42:37.307930 #4091]  INFO -- : Number of hosts: 897
+I, [2015-08-19T14:42:37.307966 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:42:37.308007 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:42:37.308108 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:42:57.137924 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:42:57.138063 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:42:57.138110 #4091]  INFO -- : Number of hosts: 897
+I, [2015-08-19T14:42:57.138174 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:42:57.138232 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:42:57.138273 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:43:17.398334 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:43:17.398471 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:43:17.398515 #4091]  INFO -- : Number of hosts: 897
+I, [2015-08-19T14:43:17.398555 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:43:17.398592 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:43:17.398628 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:43:37.279247 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:43:37.279387 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:43:37.279432 #4091]  INFO -- : Number of hosts: 914
+I, [2015-08-19T14:43:37.279475 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:43:37.279514 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:43:37.279551 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:43:57.471696 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:43:57.471817 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:43:57.471860 #4091]  INFO -- : Number of hosts: 914
+I, [2015-08-19T14:43:57.471904 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:43:57.471943 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:43:57.471980 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:44:17.248593 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:44:17.248725 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:44:17.248777 #4091]  INFO -- : Number of hosts: 914
+I, [2015-08-19T14:44:17.248833 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:44:17.248881 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:44:17.248918 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:44:37.363975 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:44:37.364093 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:44:37.364137 #4091]  INFO -- : Number of hosts: 918
+I, [2015-08-19T14:44:37.364181 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:44:37.364242 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:44:37.364284 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:44:57.255938 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:44:57.256087 #4091]  INFO -- : Temperature Rear: 23
+I, [2015-08-19T14:44:57.256135 #4091]  INFO -- : Number of hosts: 918
+I, [2015-08-19T14:44:57.256177 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:44:57.256214 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:44:57.256250 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:45:17.432390 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:45:17.432503 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:45:17.432550 #4091]  INFO -- : Number of hosts: 933
+I, [2015-08-19T14:45:17.432601 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:45:17.432687 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:45:17.432736 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:45:37.229993 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:45:37.230157 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:45:37.230208 #4091]  INFO -- : Number of hosts: 933
+I, [2015-08-19T14:45:37.230251 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:45:37.230290 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:45:37.230329 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:45:57.426406 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:45:57.426526 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:45:57.426573 #4091]  INFO -- : Number of hosts: 933
+I, [2015-08-19T14:45:57.426616 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:45:57.426656 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:45:57.426696 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:46:17.303942 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:46:17.304093 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:46:17.304143 #4091]  INFO -- : Number of hosts: 936
+I, [2015-08-19T14:46:17.304189 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:46:17.304229 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:46:17.304267 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:46:37.440612 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:46:37.440733 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:46:37.440779 #4091]  INFO -- : Number of hosts: 936
+I, [2015-08-19T14:46:37.440824 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:46:37.440872 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:46:37.440935 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:46:57.262921 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:46:57.263044 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:46:57.263100 #4091]  INFO -- : Number of hosts: 936
+I, [2015-08-19T14:46:57.263146 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:46:57.263209 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:46:57.263252 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:47:17.464620 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:47:17.464754 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:47:17.464801 #4091]  INFO -- : Number of hosts: 907
+I, [2015-08-19T14:47:17.464885 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:47:17.464934 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:47:17.464973 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:47:37.392237 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:47:37.392352 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:47:37.392396 #4091]  INFO -- : Number of hosts: 907
+I, [2015-08-19T14:47:37.392446 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:47:37.392485 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:47:37.392523 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:47:57.182578 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:47:57.182710 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:47:57.182758 #4091]  INFO -- : Number of hosts: 907
+I, [2015-08-19T14:47:57.182797 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:47:57.182833 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:47:57.182867 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:48:17.378596 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:48:17.378719 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:48:17.378765 #4091]  INFO -- : Number of hosts: 914
+I, [2015-08-19T14:48:17.378810 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:48:17.378849 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:48:17.378887 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:48:37.128056 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:48:37.128184 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:48:37.128229 #4091]  INFO -- : Number of hosts: 914
+I, [2015-08-19T14:48:37.128275 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:48:37.128315 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:48:37.128354 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:48:57.349111 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:48:57.349249 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:48:57.349295 #4091]  INFO -- : Number of hosts: 914
+I, [2015-08-19T14:48:57.349339 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:48:57.349378 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:48:57.349416 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:49:17.262735 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:49:17.262843 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:49:17.262885 #4091]  INFO -- : Number of hosts: 930
+I, [2015-08-19T14:49:17.262927 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:49:17.263000 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:49:17.263116 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:49:37.336401 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:49:37.336511 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:49:37.336564 #4091]  INFO -- : Number of hosts: 930
+I, [2015-08-19T14:49:37.336622 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:49:37.336661 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:49:37.336697 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:49:57.217940 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:49:57.218081 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:49:57.218128 #4091]  INFO -- : Number of hosts: 930
+I, [2015-08-19T14:49:57.218168 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:49:57.218205 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:49:57.218276 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:50:17.359874 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:50:17.359992 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:50:17.360067 #4091]  INFO -- : Number of hosts: 930
+I, [2015-08-19T14:50:17.360132 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:50:17.360174 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:50:17.360211 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:50:37.226064 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:50:37.226182 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:50:37.226225 #4091]  INFO -- : Number of hosts: 932
+I, [2015-08-19T14:50:37.226265 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:50:37.226301 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:50:37.226337 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:50:57.416431 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:50:57.416551 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:50:57.416594 #4091]  INFO -- : Number of hosts: 932
+I, [2015-08-19T14:50:57.416638 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:50:57.416676 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:50:57.416712 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:51:17.239197 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:51:17.239337 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:51:17.239386 #4091]  INFO -- : Number of hosts: 932
+I, [2015-08-19T14:51:17.239430 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:51:17.239468 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:51:17.239504 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:51:37.346719 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:51:37.368364 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:51:37.368460 #4091]  INFO -- : Number of hosts: 940
+I, [2015-08-19T14:51:37.368502 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:51:37.368539 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:51:37.368575 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:51:57.211639 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:51:57.211742 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:51:57.211782 #4091]  INFO -- : Number of hosts: 940
+I, [2015-08-19T14:51:57.211818 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:51:57.211852 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:51:57.211885 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:52:17.346554 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:52:17.346732 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:52:17.346786 #4091]  INFO -- : Number of hosts: 940
+I, [2015-08-19T14:52:17.346828 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:52:17.346865 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:52:17.346900 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:52:37.175131 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:52:37.175255 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:52:37.175298 #4091]  INFO -- : Number of hosts: 906
+I, [2015-08-19T14:52:37.175338 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:52:37.175375 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:52:37.175438 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:52:57.398894 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:52:57.399051 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:52:57.399107 #4091]  INFO -- : Number of hosts: 906
+I, [2015-08-19T14:52:57.399150 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:52:57.399188 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:52:57.399224 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:53:17.212324 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T14:53:17.212444 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:53:17.212487 #4091]  INFO -- : Number of hosts: 906
+I, [2015-08-19T14:53:17.212559 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:53:17.212606 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:53:17.212644 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:53:37.398037 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:53:37.398187 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:53:37.398231 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T14:53:37.398272 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:53:37.398306 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:53:37.398340 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:53:57.200522 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:53:57.200638 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:53:57.200680 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T14:53:57.200721 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:53:57.200758 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:53:57.200795 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:54:17.280603 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:54:17.280697 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:54:17.280735 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T14:54:17.280770 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:54:17.280806 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:54:17.280840 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:54:37.240397 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:54:37.240518 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:54:37.240561 #4091]  INFO -- : Number of hosts: 918
+I, [2015-08-19T14:54:37.240600 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:54:37.240637 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:54:37.240673 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:54:57.463273 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:54:57.463409 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:54:57.463458 #4091]  INFO -- : Number of hosts: 918
+I, [2015-08-19T14:54:57.463504 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:54:57.463543 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:54:57.463579 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:55:17.225427 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T14:55:17.225540 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:55:17.225582 #4091]  INFO -- : Number of hosts: 918
+I, [2015-08-19T14:55:17.225622 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:55:17.225659 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:55:17.225695 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:55:37.441128 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:55:37.441235 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:55:37.441304 #4091]  INFO -- : Number of hosts: 928
+I, [2015-08-19T14:55:37.441370 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:55:37.441424 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:55:37.441463 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:55:57.182482 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:55:57.182595 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:55:57.182634 #4091]  INFO -- : Number of hosts: 928
+I, [2015-08-19T14:55:57.182675 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:55:57.182742 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:55:57.182804 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:56:17.438716 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:56:17.438838 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:56:17.438881 #4091]  INFO -- : Number of hosts: 936
+I, [2015-08-19T14:56:17.438923 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:56:17.438961 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:56:17.438997 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:56:37.103897 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:56:37.103986 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:56:37.104053 #4091]  INFO -- : Number of hosts: 936
+I, [2015-08-19T14:56:37.104098 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:56:37.104133 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:56:37.104166 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:56:57.495421 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:56:57.495543 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:56:57.495585 #4091]  INFO -- : Number of hosts: 936
+I, [2015-08-19T14:56:57.495631 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:56:57.495668 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:56:57.495704 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:57:17.214402 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:57:17.214515 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T14:57:17.214578 #4091]  INFO -- : Number of hosts: 903
+I, [2015-08-19T14:57:17.214621 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:57:17.214656 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:57:17.214689 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:57:37.412356 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:57:37.412480 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:57:37.412524 #4091]  INFO -- : Number of hosts: 903
+I, [2015-08-19T14:57:37.412564 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:57:37.412602 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:57:37.412637 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:57:57.391709 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:57:57.391832 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:57:57.391874 #4091]  INFO -- : Number of hosts: 903
+I, [2015-08-19T14:57:57.391917 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:57:57.391967 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:57:57.392080 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:58:17.163723 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:58:17.163845 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:58:17.163895 #4091]  INFO -- : Number of hosts: 911
+I, [2015-08-19T14:58:17.163960 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:58:17.164003 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:58:17.164077 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:58:37.311639 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:58:37.311757 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:58:37.311801 #4091]  INFO -- : Number of hosts: 911
+I, [2015-08-19T14:58:37.311843 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:58:37.311881 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:58:37.311917 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:58:57.106180 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T14:58:57.106288 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:58:57.106339 #4091]  INFO -- : Number of hosts: 911
+I, [2015-08-19T14:58:57.106403 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:58:57.106456 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:58:57.106504 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:59:17.396574 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:59:17.396730 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:59:17.396792 #4091]  INFO -- : Number of hosts: 921
+I, [2015-08-19T14:59:17.396848 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:59:17.396898 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:59:17.396951 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:59:37.143541 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:59:37.143647 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:59:37.143688 #4091]  INFO -- : Number of hosts: 921
+I, [2015-08-19T14:59:37.143742 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:59:37.143789 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:59:37.143824 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T14:59:57.360115 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T14:59:57.360247 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T14:59:57.360298 #4091]  INFO -- : Number of hosts: 921
+I, [2015-08-19T14:59:57.360340 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T14:59:57.360399 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T14:59:57.360440 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:00:17.206599 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:00:17.206733 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:00:17.206783 #4091]  INFO -- : Number of hosts: 921
+I, [2015-08-19T15:00:17.206826 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:00:17.206864 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:00:17.206900 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:00:37.390972 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:00:37.391110 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:00:37.391157 #4091]  INFO -- : Number of hosts: 926
+I, [2015-08-19T15:00:37.391203 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:00:37.391268 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:00:37.391314 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:00:57.095999 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:00:57.096308 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:00:57.096361 #4091]  INFO -- : Number of hosts: 926
+I, [2015-08-19T15:00:57.096409 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:00:57.096477 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:00:57.096536 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:01:17.236643 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:01:17.236739 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:01:17.236792 #4091]  INFO -- : Number of hosts: 933
+I, [2015-08-19T15:01:17.236870 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:01:17.236924 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:01:17.236965 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:01:37.145392 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:01:37.145533 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:01:37.145611 #4091]  INFO -- : Number of hosts: 933
+I, [2015-08-19T15:01:37.145662 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:01:37.145701 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:01:37.145737 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:01:57.326983 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:01:57.327123 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:01:57.327165 #4091]  INFO -- : Number of hosts: 933
+I, [2015-08-19T15:01:57.327209 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:01:57.327244 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:01:57.327277 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:02:17.215823 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T15:02:17.215941 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:02:17.215985 #4091]  INFO -- : Number of hosts: 901
+I, [2015-08-19T15:02:17.216066 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:02:17.216112 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:02:17.216149 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:02:37.413062 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T15:02:37.413184 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:02:37.413228 #4091]  INFO -- : Number of hosts: 901
+I, [2015-08-19T15:02:37.413270 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:02:37.413307 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:02:37.413344 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:02:57.242863 #4091]  INFO -- : Temperature Front: 18
+I, [2015-08-19T15:02:57.242993 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:02:57.243072 #4091]  INFO -- : Number of hosts: 901
+I, [2015-08-19T15:02:57.243122 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:02:57.243162 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:02:57.243200 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:03:17.397468 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:03:17.397584 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:03:17.397627 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T15:03:17.397689 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:03:17.397732 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:03:17.397769 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:03:37.225809 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:03:37.225901 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:03:37.225941 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T15:03:37.225981 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:03:37.226043 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:03:37.226094 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:03:57.355647 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:03:57.355760 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:03:57.355802 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T15:03:57.355842 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:03:57.355879 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:03:57.355914 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:04:17.138594 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:04:17.138703 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:04:17.138742 #4091]  INFO -- : Number of hosts: 909
+I, [2015-08-19T15:04:17.138779 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:04:17.138814 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:04:17.138848 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:04:37.368425 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:04:37.368540 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:04:37.368583 #4091]  INFO -- : Number of hosts: 922
+I, [2015-08-19T15:04:37.368636 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:04:37.368698 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:04:37.368739 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:04:57.245958 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:04:57.246110 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:04:57.246161 #4091]  INFO -- : Number of hosts: 922
+I, [2015-08-19T15:04:57.246201 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:04:57.246236 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:04:57.246269 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:05:17.410211 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:05:17.410328 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:05:17.410371 #4091]  INFO -- : Number of hosts: 922
+I, [2015-08-19T15:05:17.410415 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:05:17.410453 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:05:17.410490 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:05:37.211000 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:05:37.211158 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:05:37.211202 #4091]  INFO -- : Number of hosts: 928
+I, [2015-08-19T15:05:37.211246 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:05:37.211284 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:05:37.211321 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:05:57.415282 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:05:57.415387 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:05:57.415432 #4091]  INFO -- : Number of hosts: 928
+I, [2015-08-19T15:05:57.415494 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:05:57.415568 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:05:57.415618 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:06:19.214370 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:06:19.214524 #4091]  INFO -- : Temperature Rear: 24
+I, [2015-08-19T15:06:19.214599 #4091]  INFO -- : Number of hosts: 928
+I, [2015-08-19T15:06:19.214674 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:06:19.214748 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:06:19.214820 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:06:37.523382 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:06:37.523529 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:06:37.523578 #4091]  INFO -- : Number of hosts: 934
+I, [2015-08-19T15:06:37.523639 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:06:37.523679 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:06:37.523714 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:06:57.431939 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:06:57.432099 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:06:57.432156 #4091]  INFO -- : Number of hosts: 934
+I, [2015-08-19T15:06:57.432199 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:06:57.432236 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:06:57.432272 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:07:17.909627 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:07:17.909746 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:07:17.909790 #4091]  INFO -- : Number of hosts: 934
+I, [2015-08-19T15:07:17.909828 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:07:17.909861 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:07:17.909893 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:07:37.583667 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:07:37.583777 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:07:37.583820 #4091]  INFO -- : Number of hosts: 904
+I, [2015-08-19T15:07:37.583863 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:07:37.583900 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:07:37.583938 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:07:57.560679 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:07:57.560783 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:07:57.560824 #4091]  INFO -- : Number of hosts: 904
+I, [2015-08-19T15:07:57.560864 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:07:57.560899 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:07:57.560934 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:08:17.259766 #4091]  INFO -- : Temperature Front: 21
+I, [2015-08-19T15:08:17.259880 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:08:17.259946 #4091]  INFO -- : Number of hosts: 910
+I, [2015-08-19T15:08:17.259995 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:08:17.260089 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:08:17.260134 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:08:37.591218 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:08:37.591331 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:08:37.591373 #4091]  INFO -- : Number of hosts: 910
+I, [2015-08-19T15:08:37.591412 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:08:37.591449 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:08:37.591505 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:08:57.334133 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:08:57.334252 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:08:57.334295 #4091]  INFO -- : Number of hosts: 910
+I, [2015-08-19T15:08:57.334335 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:08:57.334379 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:08:57.334442 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:09:17.534277 #4091]  INFO -- : Temperature Front: 20
+I, [2015-08-19T15:09:17.534399 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:09:17.534443 #4091]  INFO -- : Number of hosts: 922
+I, [2015-08-19T15:09:17.534483 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:09:17.534519 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:09:17.534580 #4091]  INFO -- : Number of R&S: 57
+I, [2015-08-19T15:09:37.286855 #4091]  INFO -- : Temperature Front: 19
+I, [2015-08-19T15:09:37.286970 #4091]  INFO -- : Temperature Rear: 25
+I, [2015-08-19T15:09:37.287036 #4091]  INFO -- : Number of hosts: 922
+I, [2015-08-19T15:09:37.287093 #4091]  INFO -- : Number of devices: 86
+I, [2015-08-19T15:09:37.287133 #4091]  INFO -- : Number of problems: 0
+I, [2015-08-19T15:09:37.287169 #4091]  INFO -- : Number of R&S: 57

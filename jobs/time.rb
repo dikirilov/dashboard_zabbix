@@ -1,14 +1,15 @@
 # :first_in sets how long it takes before the job is first run. In this case, it is run immediately
-hour_dinner = 14
-hour_end = 17
+mes = "ПОТРАЧЕНО"
 
 SCHEDULER.every '1s' do
+  hour_dinner = 15
+  hour_end = 19
   today = Time.now 
   if today.hour > hour_dinner
-    hour_dinner += 24
+    flag_dinner = true
   end
   if today.hour > hour_end
-    hour_end += 24
+    flag_end = true
   end
 
   toh = hour_dinner - today.hour
@@ -17,11 +18,14 @@ SCHEDULER.every '1s' do
   tos = 59 - today.sec
   tos = tos > 9 ? tos.to_s : "0"+tos.to_s
 
-  to_d = toh.to_s+":"+tom.to_s+":"+tos.to_s
-  toh = hour_end - today.hour
-  to_e = toh.to_s+":"+tom.to_s+":"+tos.to_s
-  
-  send_event('toDinner', { text: to_d })
-  send_event('toEnd', { text:to_e })
+  to_d = flag_dinner ? mes : toh.to_s+":"+tom.to_s+":"+tos.to_s
+  tohe = hour_end - today.hour
+  to_e = flag_end ? mes : tohe.to_s+":"+tom.to_s+":"+tos.to_s
+ 
+  color1 = flag_dinner ? "grey" : "green"
+  color2 = flag_end ? "grey" : "green"
+ 
+  send_event('toDinner', { value: to_d, color: color1 })
+  send_event('toEnd', { value: to_e, color: color2 })
 
 end
